@@ -1,4 +1,4 @@
-# QoolRPLogin.Exe
+# QoolRPLogin.Exe(Beta Verison測試版本)
 京畿道RP登入器
 
 請注意！！！
